@@ -1,0 +1,92 @@
+[
+    {
+        "slug": "gold-atm",
+        "name": "Gold ATM",
+        "tagline": "Automated gold retail infrastructure",
+        "category": "Retail Automation",
+        "short_description": "Secure self-service kiosk for automated purchase and sale of certified gold products.",
+        "description": "Gold ATM modernizes precious-metal retail by combining secure vaulting, real-time pricing, and touchless checkout flows. It is designed for malls, airports, and premium retail environments requiring trusted, autonomous transactions.",
+        "features": [
+            "Real-time bullion pricing integration",
+            "KYC-ready onboarding and compliance workflow",
+            "Tamper-resistant hardware with remote diagnostics",
+            "Multi-language customer interface"
+        ],
+        "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "slug": "wtc-machines",
+        "name": "WTC Machines",
+        "tagline": "Automated beverage & retail platform",
+        "category": "Smart Commerce",
+        "short_description": "High-uptime vending and micro-retail machine platform for transit hubs and campuses.",
+        "description": "WTC Machines deliver an integrated commerce stack for autonomous retail. Operators can manage inventory, promotions, and telemetry from a centralized dashboard while customers enjoy frictionless purchases.",
+        "features": [
+            "Dynamic inventory and refill alerts",
+            "Contactless and wallet-based payments",
+            "AI demand forecasting",
+            "Operator analytics and SLA tracking"
+        ],
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "slug": "police-smart-booth",
+        "name": "Police Smart Booth",
+        "tagline": "AI-enabled citizen service infrastructure",
+        "category": "Public Safety",
+        "short_description": "Connected digital kiosk for first-response communication and civic services.",
+        "description": "Police Smart Booth enables communities to access emergency support, digital complaint filing, and assisted citizen services around the clock. Built-in surveillance integration improves public safety response times.",
+        "features": [
+            "Emergency video call with dispatch center",
+            "Incident reporting and e-FIR workflows",
+            "Integrated surveillance and sensor support",
+            "Accessibility-first interface design"
+        ],
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "slug": "responseai",
+        "name": "ResponseAI",
+        "tagline": "Intelligent conversational automation engine",
+        "category": "AI Platform",
+        "short_description": "Domain-trained conversational AI for customer support, triage, and engagement.",
+        "description": "ResponseAI orchestrates multilingual, context-aware interactions across voice, chat, and kiosk channels. It combines retrieval, policy automation, and human handoff to deliver reliable user experiences.",
+        "features": [
+            "Omnichannel AI agent deployment",
+            "Policy-controlled responses and escalation",
+            "Continuous feedback training pipeline",
+            "Enterprise-grade observability"
+        ],
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "slug": "ainetra",
+        "name": "Ainetra",
+        "tagline": "AI vision and analytics platform",
+        "category": "Computer Vision",
+        "short_description": "Vision intelligence stack for operations, safety, and retail behavior analytics.",
+        "description": "Ainetra transforms camera feeds into actionable intelligence with real-time detection, event scoring, and dashboard-ready insights. It is optimized for smart city and enterprise deployments.",
+        "features": [
+            "Real-time object and event detection",
+            "Privacy-aware processing pipelines",
+            "Custom model deployment lifecycle",
+            "Alerting and workflow integrations"
+        ],
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "slug": "ecoshelf",
+        "name": "EcoShelf",
+        "tagline": "Advanced shelf-life preservation technology",
+        "category": "Cold Chain Tech",
+        "short_description": "IoT-enabled intelligent shelving for perishable goods and precision climate control.",
+        "description": "EcoShelf extends product freshness through adaptive temperature zoning, humidity management, and predictive maintenance. Retailers reduce waste while maintaining product quality and compliance.",
+        "features": [
+            "Adaptive temperature and humidity zones",
+            "Shelf-life prediction analytics",
+            "Energy optimization controls",
+            "Integrated compliance reporting"
+        ],
+        "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1200&q=80"
+    }
+]
